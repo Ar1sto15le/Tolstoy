@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.12.27)  23 JAN 2014 02:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.12.27)  24 JAN 2014 18:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -229,25 +229,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 65.
+(Font)              <7> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 65.
+(Font)              <5> on input line 64.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2] [3] [4] [5] [6]
-[7] [8] [9] [10] [11] [12] [13]
+] [2]
+Overfull \hbox (8.16869pt too wide) in paragraph at lines 76--76
+ |[]\OT1/cmr/bx/n/17.28 A New His-tor-i-cal Method: The Dif-fer-en-tial of []| 
+
+ []
+
+[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
 <Integration.png, id=54, 295.1025pt x 274.77657pt>
 File: Integration.png Graphic file (type png)
  <use Integration.png>
-Package pdftex.def Info: Integration.png used on input line 131.
+Package pdftex.def Info: Integration.png used on input line 130.
 (pdftex.def)             Requested size: 375.80544pt x 349.92667pt.
 
 [14 <./Integration.png>] [15] [16] (./Tolstoy_Griggs.aux) ) 
 Here is how much of TeX's memory you used:
  2304 strings out of 493485
  32850 string characters out of 3143525
- 98133 words of memory out of 3000000
+ 97133 words of memory out of 3000000
  5593 multiletter control sequences out of 15000+200000
  8693 words of font info for 30 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -262,7 +267,7 @@ dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist
 ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Tolstoy_Griggs.pdf (16 pages, 190854 bytes).
+Output written on Tolstoy_Griggs.pdf (16 pages, 190522 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
